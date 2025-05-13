@@ -1,0 +1,7 @@
+current_state,input_symbol,next_states
+q₀,0,"q₀,q₁,q₂"
+q₀,1,"q₁"
+q₁,0,"q₂"
+q₁,1,"q₀,q₂"
+q₂,0,""
+q₂,1,"q₀"

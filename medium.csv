@@ -1,0 +1,5 @@
+current_state,input_symbol,next_states
+q₀,ε,q₁
+q₀,0,q₀
+q₁,1,q₁
+q₁,0,
