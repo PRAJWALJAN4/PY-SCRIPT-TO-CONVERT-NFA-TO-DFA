@@ -43,7 +43,7 @@ Plot NFA	Renders the NFA graph with labeled edges.
 Plot DFA	Generates and displays the equivalent DFA.
 Show Transitions	Step through DFA transitions one at a time.
 Reset Steps	Reset the transition walkthrough.
-⚙️ Error Handling Techniques
+⚙️ Error Handling Techniques,
 The tool validates inputs and handles errors gracefully:
 
 Error Type	Handling Mechanism
