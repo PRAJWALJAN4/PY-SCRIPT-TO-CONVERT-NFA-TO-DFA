@@ -3,7 +3,7 @@ A Python tool to convert NFAs (Non-deterministic Finite Automata) to DFAs (Deter
 
 📌 Aim of the Project
 Core Objective:
-
+gg
 Convert NFAs (with ε-transitions) to equivalent DFAs using subset construction.
 
 Provide an intuitive GUI for step-by-step exploration of automata transitions.
