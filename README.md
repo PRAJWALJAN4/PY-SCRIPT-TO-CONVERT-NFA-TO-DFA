@@ -11,7 +11,7 @@ Provide an intuitive GUI for step-by-step exploration of automata transitions.
 Key Features:
 
 📊 Visualize NFA/DFA graphs using networkx and matplotlib.
-
+bb
 📂 Parse NFA definitions from CSV files.
 
 🔍 Step-through mode for DFA transition debugging.
